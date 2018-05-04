@@ -45,7 +45,7 @@ a or b     a or b
 =========  ========
 cos(a)     np.cos(a)
 alog(a)    np.log(a)
-alog10(a)  np.alog(a)
+alog10(a)  np.log10(a)
 exp(a)     np.exp(a)
 =========  ========
 
